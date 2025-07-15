@@ -20,9 +20,12 @@ From bar plots to violin plots, heatmaps to pairplots, you'll find beautiful, cu
 > *A taste of what you'll create:*
 
 <p align="center">
-  <img src="screenshots/barplot.png" width="250" alt="Barplot example" />
-  <img src="screenshots/violinplot.png" width="250" alt="Violinplot example" />
-  <img src="screenshots/heatmap.png" width="250" alt="Heatmap example" />
+  <img src="Bar Plot\output4.png" width="250" alt="Barplot example" />
+  <img src="Violin Plot\output4.pngg" width="250" alt="Violinplot example" />
+  <img src="Heatmap\output6.pngg" width="250" alt="Heatmap example" />
+  <img src="Strip plot\output3.png" width="250" alt="Strip-plot example" />
+  <img src="Lineplot\output4.png" width="250" alt="Line-plot example" />
+  
 </p>
 
 ---
